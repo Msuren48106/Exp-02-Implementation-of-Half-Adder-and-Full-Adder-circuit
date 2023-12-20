@@ -62,14 +62,26 @@ RTL realization
 
 half adder
 
-![digital exp-three half-adder](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/40d20cd9-c389-47a6-a95f-821b36e0e205)
+![291158234-37dd987c-bada-4f79-addf-77c71c83b02a](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/9e70a1f3-2b27-4617-88c1-9cb950de75a7)
 
 full adder
 
-![digital exp-three full-adder](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/c1ebdf75-9378-466b-9760-9626490f2a76)
-### TIMING DIAGRAM
+![image](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/112d22cf-2d65-4417-8d8d-661faf0db261)
+
+
+## TIMING DIAGRAM
+
+![image](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/21e24a03-2418-4c26-83ca-ccda665b731e)
+
+![image](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/0fd78aeb-9f98-4c92-b2a6-3cd850cc7483)
+
 
 ### TRUTH TABLE 
+
+![image](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/037348a7-d944-459b-b11f-2edd7cfa7a17)
+
+![image](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/00faf599-8418-43e3-ab35-fff0c55d910e)
+
 
 ### Result:
 The design of the half adder and full adder is sucesfully proved
