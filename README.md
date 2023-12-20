@@ -37,6 +37,7 @@ If the output is 1, then the led glows.
 ### 
 Program: 
 /*
+~~~
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: M.suren.
 RegisterNumber: 23005055
@@ -55,11 +56,16 @@ output sum,carry;
 assign sum = ((A^B)^C);
 assign carry = ((A&B) | (B&C) | (C&A));
 endmodule
+~~~
 */
 RTL realization
+
 half adder
+
 ![digital exp-three half-adder](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/40d20cd9-c389-47a6-a95f-821b36e0e205)
+
 full adder
+
 ![digital exp-three full-adder](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/c1ebdf75-9378-466b-9760-9626490f2a76)
 ### TIMING DIAGRAM
 
