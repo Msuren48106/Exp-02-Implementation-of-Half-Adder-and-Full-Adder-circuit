@@ -35,20 +35,35 @@ Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
-Program:
+Program: 
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: M.suren.
+RegisterNumber: 23005055
+half adder
+module digitalexpthree(A,B,sum,carry)
+input A,B;
+output sum,carry;
+xor(sum,A,B);
+and(carry,A,B);
+endmodule
+
+full adeer
+module digitalexpthreeone(A,B,sum,carry)
+input A,B,C;
+output sum,carry;
+assign sum = ((A^B)^C);
+assign carry = ((A&B) | (B&C) | (C&A));
+endmodule
 */
-Logic symbol & Truthtable
 RTL realization
-
-### Output:
-### RTL
+half adder
+![digital exp-three half-adder](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/40d20cd9-c389-47a6-a95f-821b36e0e205)
+full adder
+![digital exp-three full-adder](https://github.com/Msuren48106/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150503875/c1ebdf75-9378-466b-9760-9626490f2a76)
 ### TIMING DIAGRAM
-
 
 ### TRUTH TABLE 
 
 ### Result:
+The design of the half adder and full adder is sucesfully proved
